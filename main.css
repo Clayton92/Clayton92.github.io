@@ -1,9 +1,22 @@
 
 .siteNav ul{
+	
+}
+.siteNavBar{
 	list-style-type:none;
 	margin:0;
 	Padding:0;
 	background-color:red;
+}
+.siteNavBar li{
+	display:inline;
+	
+}
+.siteNavBar li a{
+	display:block;
+	border-style:solid;
+	border-width:2px;
+	border-color:white;
 }
 
 .pageNav{
