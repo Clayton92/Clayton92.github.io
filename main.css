@@ -27,9 +27,6 @@
 .activeSection{
 	background-color:#4CAF50;
 }
-.activeSection a:hover{
-	background-color:#111;
-}
 
 .pageNav{
 	float:left;
