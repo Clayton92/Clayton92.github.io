@@ -11,11 +11,11 @@
 	width:100%;
 	top:0;
 }
-.siteNavBar li{
+.item{
 	float:left;
 }
 
-.siteNavBar a{
+.item a{
 	display:block;
 	padding:10px;
 	color:white;
