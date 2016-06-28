@@ -1,5 +1,5 @@
 
-.siteNav ul{
+.siteNav{
 	
 }
 .siteNavBar{
@@ -8,8 +8,8 @@
 	Padding:0;
 	background-color:black;
 	position:fixed;
-	width:100%;
-	top:0;
+	overflow:hidden;
+	
 }
 .item{
 	float:left;
