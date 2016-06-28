@@ -1,0 +1,16 @@
+
+.siteNav ul{
+	list-style-type:none;
+	margin:0;
+	Padding:0;
+	background-color:red;
+}
+
+.pageNav{
+	float:left;
+	max-width:400;
+}
+
+.content{
+	
+}
