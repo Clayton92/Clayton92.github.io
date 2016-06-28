@@ -1,5 +1,8 @@
 
 .siteNav ul{
+	
+}
+.siteNavBar{
 	list-style-type:none;
 	margin:0;
 	Padding:0;
@@ -8,19 +11,16 @@
 	width:100%;
 	top:0;
 }
-.siteNavBar{
-	
-}
 .siteNavBar li{
 	float:left;
-	
 }
-.siteNavBar li a{
+
+.siteNavBar a{
 	display:block;
-	padding:15 px;
+	padding:10px;
 	color:white;
 	text-decoration:none;
-	
+	text-align:center;
 }
 
 .pageNav{
