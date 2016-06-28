@@ -12,7 +12,7 @@
 	
 }
 .siteNavBar li{
-	display:inline;
+	float:left;
 	
 }
 .siteNavBar li a{
