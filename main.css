@@ -48,12 +48,13 @@ p{
 
 .content{
 	padding:0;
-    display:block;
-    height:inherit;
+    overflow: hidden
+    height:auto;
 }
 .mainContent{
     float:left;
-    height: inherit;
+    height:auto;
+    overflow: hidden;
 }
 .contentStrip{
     display:block;
@@ -61,10 +62,9 @@ p{
     font-size: 100%;
 }
 .sidebar{
-    width: 220px;
-    height: 100%;
+    height: auto;
     float:right;
-    padding:5px;
+    width: auto;
 }
 
 .timeButton{
