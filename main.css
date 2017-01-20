@@ -50,8 +50,7 @@ p{
     display:block;
 }
 .contentBox{
-    width:100%;
-    display:inline-block;
+    display:inline;
     padding:5px;
     font-size: 100%;
 }
