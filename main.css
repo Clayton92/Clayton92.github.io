@@ -50,7 +50,7 @@ p{
     display:block;
 }
 .mainContent{
-    display:inline-block;
+    float:left;
 }
 .contentStrip{
     display:block;
@@ -59,7 +59,6 @@ p{
 }
 .sidebar{
     width: 220px;
-    display:inline-block;
     height: 100%;
     float:right;
     padding:5px;
