@@ -59,6 +59,7 @@ p{
 }
 .sidebar{
     display:inline-block;
+    height: 100%;
     float:right;
     padding:5px;
 }
