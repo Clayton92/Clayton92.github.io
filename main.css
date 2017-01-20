@@ -58,6 +58,7 @@ p{
     font-size: 100%;
 }
 .sidebar{
+    width: 220px;
     display:inline-block;
     height: 100%;
     float:right;
