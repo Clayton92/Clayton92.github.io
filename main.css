@@ -56,8 +56,7 @@ p{
     font-size: 100%;
 }
 .twitterSidebar{
-    float:right;
-    height:100%;
+    float:right !important;
     padding:0;
 }
 
