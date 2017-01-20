@@ -49,12 +49,16 @@ p{
 	padding:0;
     display:block;
 }
-.contentBox{
-    display:inline;
+.mainContent{
+    display:inline-block;
+}
+.contentStrip{
+    display:block;
     padding:5px;
     font-size: 100%;
 }
-.twitterSidebar{
+.sidebar{
+    display:inline-block;
     float:right;
     padding:5px;
 }
