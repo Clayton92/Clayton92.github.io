@@ -12,6 +12,7 @@ p{
 .body{
     margin: 0;
     padding: 0;
+    height:100%;
     
 }
 
@@ -48,9 +49,11 @@ p{
 .content{
 	padding:0;
     display:block;
+    height:inherit;
 }
 .mainContent{
     float:left;
+    height: inherit;
 }
 .contentStrip{
     display:block;
