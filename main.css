@@ -5,9 +5,9 @@
 }
 
 .siteNav{
-	width:100%;
     margin: 0;
     padding: 0;
+    display:block;
 }
 .siteNavBar{
 	list-style-type: none;
@@ -15,7 +15,6 @@
     padding: 0;
     overflow: hidden;
     background-color: #333;
-	
 }
 .item{
 	float: left;
@@ -35,11 +34,17 @@
 	background-color:#4CAF50;
 }
 
-.pageNav{
-	float:right;
-	max-width:400;
+.content{
+	padding:5px;
+    display:block;
 }
 
-.content{
-	
+.timeButton{
+    border:none;
+    background-color: #333;
+    border-width: 1;
+    border-color:#333;
+    color:white;
+    padding:20px;  
+    cursor:pointer;
 }
