@@ -52,7 +52,6 @@ p{
     height:auto;
 }
 .mainContent{
-    float:left;
     height:auto;
     overflow: hidden;
 }
@@ -62,7 +61,7 @@ p{
     font-size: 100%;
 }
 .sidebar{
-    height: auto;
+    height: 100%;
     float:right;
     width: auto;
 }
