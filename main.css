@@ -55,6 +55,11 @@ p{
     padding:5px;
     font-size: 100%;
 }
+.twitterSidebar{
+    float:right;
+    height:100%;
+    padding:0;
+}
 
 .timeButton{
     display:none;
@@ -72,6 +77,8 @@ p{
     display:block;
     margin:0;
     padding:0;
+    position:fixed;
+    bottom:0px;
     
 }
 
