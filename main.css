@@ -40,6 +40,7 @@
 }
 
 .timeButton{
+    display:none;
     border:none;
     background-color: #333;
     border-width: 1;
@@ -47,4 +48,18 @@
     color:white;
     padding:20px;  
     cursor:pointer;
+}
+
+.footer{
+    display:block;
+    margin:0;
+    padding:0;
+}
+
+.footerText{
+    color:white;
+    background-color: #333;
+    display:block;
+    padding:5px;
+    font-size: 0.7em;
 }
