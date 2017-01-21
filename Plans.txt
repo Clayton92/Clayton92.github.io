@@ -21,5 +21,4 @@ Practice area - Space to practice things.
 
 To Do: 
 
-
-investigate google maps functionality
+button to return to index page.

@@ -57,6 +57,21 @@ body{
 	background-color:#4CAF50;
 }
 
+.indexButton{
+    float:right;
+}
+
+.indexButton a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.indexButton a:hover{
+    background-color: #111;
+}
+
 .mainContent{
     height:100%;
     padding:10px:
