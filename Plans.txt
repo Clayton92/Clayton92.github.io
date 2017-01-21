@@ -21,6 +21,5 @@ Practice area - Space to practice things.
 
 To Do: 
 
-Restructure site into Splash - home - etc etc  Heirachy
 
-Organise splash page
+investigate google maps functionality
