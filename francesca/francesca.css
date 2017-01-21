@@ -7,8 +7,10 @@ html{
 
 body {
     margin:0 0 0px;
-    /*background: #A39F9F;*/
-    background-color: #525659;
+    /*background: #A39F9F;
+    background-color: #525659;*/
+    background-image: url("assets/pattern.jpeg");
+    background-size: 100% auto;
     font-family: "Helvetica", serif;
     height: 100%;
     min-height: 100%;
