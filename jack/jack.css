@@ -78,6 +78,7 @@ body{
 
 }
 .contentStrip{
+    padding:5px;
     height:100%;
     display:block;
     font-size: 100%;
@@ -104,6 +105,56 @@ body{
     height: 100%;
 }
 
+#map {
+    height: 400px;
+    width:400px;
+    padding:5px;
+      }
+
+.contactForm{
+    padding: 10px;
+    float:right;
+}
+
+input[type=submit]{
+    margin-top:8px;
+    border:none;
+    border-style: none;
+    display:block;
+    background-color: #333;
+    color:white;
+    padding: 14px 20px;
+    cursor: pointer;
+    width:100px;
+}
+input[type=submit]:hover{
+    background-color: #4CAF50;
+    
+}
+input[type=text]{
+    display:block;
+    margin-top: 5px;
+    width:300px;
+}
+input[type=email]{
+    display:block;
+    margin-top: 5px;
+    width:300px;
+}
+textarea{
+    display:block;
+    margin-top: 5px;
+    width:300px;
+}
+#contactMedia a{
+    text-decoration: none;
+}
+.socialIcons{
+    height:40px;
+    width:42px;
+    margin-right: 5px;
+}
+
 .footer{
     height: auto;
     width: 100%;
@@ -124,8 +175,4 @@ body{
     text-align: center;
 }
 
-#map {
-    height: 400px;
-    width:400px;
-    padding:5px;
-      }
+

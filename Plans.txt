@@ -21,4 +21,3 @@ Practice area - Space to practice things.
 
 To Do: 
 
-button to return to index page.
