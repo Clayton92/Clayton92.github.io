@@ -1,0 +1,5 @@
+Fix coppyright footer for @media less than 500px
+
+index 
+- hover over one side and the other fades
+- fix background image rotation or delete js page
