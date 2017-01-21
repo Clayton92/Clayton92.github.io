@@ -109,7 +109,7 @@ body{
     text-align: center;
 }
 
-.map {
+#map {
         height: 400px;
         width:400px;
       }
